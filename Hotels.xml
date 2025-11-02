@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Hotels xmlns = "http://venus.sod.asu.edu/WSRepository/xml" xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml Courses.xsd">
+
+    <Hotel>
+        <Name>Motel 6 Phoenix, AZ - Airport - 24th Street</Name>
+        <Phone>6028385289</Phone>
+        <Address NearestAirport = "Sky Harbor">
+            <Number>214</Number>
+            <Street>24th St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85034</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>SureStay by Best Western Phoenix Airport</Name>
+        <Phone>6022731601</Phone>
+        <Address NearestAirport = "Sky Harbor">
+            <Number>3037</Number>
+            <Street>E Van Buren St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85008</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Paradise Motel</Name>
+        <Phone>6023684886</Phone>
+        <Phone>0123456789</Phone>
+        <Address NearestAirport = "Sky Harbor">
+            <Number>2433</Number>
+            <Street>E Van Buren St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85008</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Extend-a-Suites</Name>
+        <Phone>6022737251</Phone>
+        <Address NearestAirport = "Sky Harbor">
+            <Number>2425</Number>
+            <Street>S 24th St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85034</Zip>
+
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Western Lodge</Name>
+        <Phone>6023746552</Phone>
+        <Address NearestAirport = "Sky Harbor">
+            <Number>3725</Number>
+            <Street>E Van Buren St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85008</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating = 4.2>
+        <Name>Aloft Phoenix-Airport</Name>
+        <Phone>6022756300</Phone>
+        <Address NearestAirport = "Sky Harbor">
+            <Number>4450</Number>
+            <Street>E Washington St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85034</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating = 4.0>
+        <Name>Crowne Plaza Phoenix Airport - PHX</Name>
+        <Phone>6022737778</Phone>
+        <Address NearestAirport = "Sky Harbor">
+            <Number>4300</Number>
+            <Street>E Washington St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85034</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating = 3.9>
+        <Name>DoubleTree Suites by Hilton Hotel Phoenix</Name>
+        <Phone>6022250500</Phone>
+        <Address NearestAirport = "Sky Harbor">
+            <Number>320</Number>
+            <Street>N 44th St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85008</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating = 4.0>
+        <Name>Radisson Hotel Phoenix Airport</Name>
+        <Phone>6026613160</Phone>
+        <Phone>9876543210</Phone>
+        <Address NearestAirport = "Sky Harbor">
+            <Number>427</Number>
+            <Street>N 44th St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85008</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating = 4.1>
+        <Name>Hampton Inn Phoenix-Airport North</Name>
+        <Phone>6022670606</Phone>
+        <Address NearestAirport = "Sky Harbor">
+            <Number>601</Number>
+            <Street>N 44th St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85008</Zip>
+        </Address>
+
+    </Hotel>
+
+</Hotels>

@@ -64,7 +64,7 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
         </Address>
     </Hotel>
 
-    <Hotel Rating = 4.2>
+    <Hotel Rating = "4.2">
         <Name>Aloft Phoenix-Airport</Name>
         <Phone>6022756300</Phone>
         <Address NearestAirport = "Sky Harbor">
@@ -88,7 +88,7 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
         </Address>
     </Hotel>
 
-    <Hotel Rating = 3.9>
+    <Hotel Rating = "3.9">
         <Name>DoubleTree Suites by Hilton Hotel Phoenix</Name>
         <Phone>6022250500</Phone>
         <Address NearestAirport = "Sky Harbor">
@@ -100,7 +100,7 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
         </Address>
     </Hotel>
 
-    <Hotel Rating = 4.0>
+    <Hotel Rating = "4.0">
         <Name>Radisson Hotel Phoenix Airport</Name>
         <Phone>6026613160</Phone>
         <Phone>9876543210</Phone>
@@ -113,7 +113,7 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
         </Address>
     </Hotel>
 
-    <Hotel Rating = 4.1>
+    <Hotel Rating = "4.1">
         <Name>Hampton Inn Phoenix-Airport North</Name>
         <Phone>6022670606</Phone>
         <Address NearestAirport = "Sky Harbor">
@@ -128,5 +128,6 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
 
 
 </Hotels>
+
 
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://sashton007.github.io/CSE445_Assignment_4/" 
-targetNamespace="https://sashton007.github.io/CSE445_Assignment_4/" elementFormDefault="qualified" attributeFormDefault="unqualified">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://sashton007.github.io/CSE445_Assignment_4" 
+targetNamespace="https://sashton007.github.io/CSE445_Assignment_4" elementFormDefault="qualified" attributeFormDefault="unqualified">
 
     <xsd:element name = "Hotels" type = "HotelsType"/>
     <xsd:element name = "HotelsType">
@@ -44,3 +44,4 @@ targetNamespace="https://sashton007.github.io/CSE445_Assignment_4/" elementFormD
     
 
 </xsd:schema>
+

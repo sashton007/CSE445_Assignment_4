@@ -76,7 +76,7 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
         </Address>
     </Hotel>
 
-    <Hotel Rating = 4.0>
+    <Hotel Rating = "4.0">
         <Name>Crowne Plaza Phoenix Airport - PHX</Name>
         <Phone>6022737778</Phone>
         <Address NearestAirport = "Sky Harbor">
@@ -128,6 +128,7 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
 
 
 </Hotels>
+
 
 
 

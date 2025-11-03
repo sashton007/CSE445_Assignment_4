@@ -15,7 +15,7 @@ targetNamespace="https://sashton007.github.io/CSE445_Assignment_4" elementFormDe
         <xsd:complexType>
             <xsd:sequence>
                 <xsd:element name = "Name" type = "xsd:string" minOccurs="1" maxOccurs="1"/>
-                <xsd:element name = "Phone" type = "PhoneType" minOccurs = "1" maxOccurs = "unbounded"/>
+                <xsd:element name = "Phone" type = "xsd:positiveInteger" minOccurs = "1" maxOccurs = "unbounded"/>
                 <xsd:element name = "Address" type = "AddressType" minOccurs = "1" maxOccurs = "1"/>
                 <xsd:attribute name = "Rating" type = "xsd:positiveDecimal" use = "optional"/>
             </xsd:sequence>
@@ -35,13 +35,14 @@ targetNamespace="https://sashton007.github.io/CSE445_Assignment_4" elementFormDe
         </xsd:complexType>
     </xsd:element>
 
-    <xsd:simpleType name="PhoneType">
+    <!-- <xsd:simpleType name="PhoneType">
         <xsd:restriction base="xsd:string">
             <xsd:pattern value="\d{3}\-\d{3} \d{4}"/>
         </xsd:restriction>
-    </xsd:simpleType>
+    </xsd:simpleType> -->
 
     
 
 </xsd:schema>
+
 

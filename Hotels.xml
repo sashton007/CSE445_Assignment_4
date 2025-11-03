@@ -4,7 +4,7 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
 
     <Hotel>
         <Name>Motel 6 Phoenix, AZ - Airport - 24th Street</Name>
-        <Phone>602-838 5289</Phone>
+        <Phone>602-838-5289</Phone>
         <Address NearestAirport = "Sky Harbor">
             <Number>214</Number>
             <Street>24th St</Street>
@@ -16,7 +16,7 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
 
     <Hotel>
         <Name>SureStay by Best Western Phoenix Airport</Name>
-        <Phone>602-273 1601</Phone>
+        <Phone>602-273-1601</Phone>
         <Address NearestAirport = "Sky Harbor">
             <Number>3037</Number>
             <Street>E Van Buren St</Street>
@@ -28,8 +28,8 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
 
     <Hotel>
         <Name>Paradise Motel</Name>
-        <Phone>602-368 4886</Phone>
-        <Phone>012-345 6789</Phone>
+        <Phone>602-368-4886</Phone>
+        <Phone>012-345-6789</Phone>
         <Address NearestAirport = "Sky Harbor">
             <Number>2433</Number>
             <Street>E Van Buren St</Street>
@@ -41,7 +41,7 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
 
     <Hotel>
         <Name>Extend-a-Suites</Name>
-        <Phone>602-273 7251</Phone>
+        <Phone>602-273-7251</Phone>
         <Address NearestAirport = "Sky Harbor">
             <Number>2425</Number>
             <Street>S 24th St</Street>
@@ -54,7 +54,7 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
 
     <Hotel>
         <Name>Western Lodge</Name>
-        <Phone>602-374 6552</Phone>
+        <Phone>602-374-6552</Phone>
         <Address NearestAirport = "Sky Harbor">
             <Number>3725</Number>
             <Street>E Van Buren St</Street>
@@ -66,7 +66,7 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
 
     <Hotel Rating = "4.2">
         <Name>Aloft Phoenix-Airport</Name>
-        <Phone>602-275 6300</Phone>
+        <Phone>602-275-6300</Phone>
         <Address NearestAirport = "Sky Harbor">
             <Number>4450</Number>
             <Street>E Washington St</Street>
@@ -78,7 +78,7 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
 
     <Hotel Rating = "4.0">
         <Name>Crowne Plaza Phoenix Airport - PHX</Name>
-        <Phone>602-273 7778</Phone>
+        <Phone>602-273-7778</Phone>
         <Address NearestAirport = "Sky Harbor">
             <Number>4300</Number>
             <Street>E Washington St</Street>
@@ -90,7 +90,7 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
 
     <Hotel Rating = "3.9">
         <Name>DoubleTree Suites by Hilton Hotel Phoenix</Name>
-        <Phone>602-225 0500</Phone>
+        <Phone>602-225-0500</Phone>
         <Address NearestAirport = "Sky Harbor">
             <Number>320</Number>
             <Street>N 44th St</Street>
@@ -102,8 +102,8 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
 
     <Hotel Rating = "4.0">
         <Name>Radisson Hotel Phoenix Airport</Name>
-        <Phone>602-661 3160</Phone>
-        <Phone>987-654 3210</Phone>
+        <Phone>602-661-3160</Phone>
+        <Phone>987-654-3210</Phone>
         <Address NearestAirport = "Sky Harbor">
             <Number>427</Number>
             <Street>N 44th St</Street>
@@ -115,7 +115,7 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
 
     <Hotel Rating = "4.1">
         <Name>Hampton Inn Phoenix-Airport North</Name>
-        <Phone>602-267 0606</Phone>
+        <Phone>602-267-0606</Phone>
         <Address NearestAirport = "Sky Harbor">
             <Number>601</Number>
             <Street>N 44th St</Street>
@@ -128,6 +128,7 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://sashton007
 
 
 </Hotels>
+
 
 
 

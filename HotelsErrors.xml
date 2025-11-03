@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Hotel xmlns = "http://venus.sod.asu.edu/WSRepository/xml" xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" 
-xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml">
+<Hotel xmlns = "https://sashton007.github.io/CSE445_Assignment_4" xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://sashton007.github.io/CSE445_Assignment_4/HotelsErrors.xml">
 
     <Hotel>
         <Name>Motel 6 Phoenix, AZ - Airport - 24th Street</Name>
@@ -129,6 +129,7 @@ xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml">
 
 
 </Hotels>
+
 
 
 

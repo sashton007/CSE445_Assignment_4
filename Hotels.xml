@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Hotels xmlns = "https://sashton007.github.io/CSE445_Assignment_4/xml" xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" 
+<Hotels xmlns = "https://sashton007.github.io/CSE445_Assignment_4" xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" 
 xsi:schemaLocation="https://sashton007.github.io/CSE445_Assignment_4 Hotels.xsd">
 
     <Hotel>
@@ -128,6 +128,7 @@ xsi:schemaLocation="https://sashton007.github.io/CSE445_Assignment_4 Hotels.xsd"
 
 
 </Hotels>
+
 
 
 
